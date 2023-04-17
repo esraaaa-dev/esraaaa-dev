@@ -9,6 +9,9 @@ A person trying to become a good programmer
 - 🥅 Write code more than yesterday but no spaghetti
 - ⚡ I love to have fun 
 
+# Code
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 
 ### This week I spend time with:
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ari&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
