@@ -9,7 +9,7 @@ A person trying to become a good programmer
 - 🥅 Write code more than yesterday but no spaghetti
 - ⚡ I love to have fun 
 
-# Code
+### Code
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 
