@@ -9,7 +9,6 @@ A person trying to become a good programmer
 - 🥅 Write code more than yesterday but no spaghetti
 - ⚡ I love to have fun 
 
--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Ari
-=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
