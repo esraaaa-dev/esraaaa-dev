@@ -14,11 +14,11 @@ A person trying to become a good programmer
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraaaa-dev&layout=compact)](https://github.com/esraaaa-dev/github-readme-stats)
-
-
-
 [![Ari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ari)](https://github.com/esraaaa-dev/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esraaaa-dev&layout=compact)](https://github.com/esraaaa-dev/github-readme-stats)
 
 
 
