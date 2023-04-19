@@ -9,7 +9,8 @@ A person trying to become a good programmer
 - 🥅 Write code more than yesterday but no spaghetti
 - ⚡ I love to have fun 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=esraaaa-dev&show_icons=true&theme=gradient) 
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=esraaaa-dev&show_icons=true&theme=radical)
 
 ### Code
 
