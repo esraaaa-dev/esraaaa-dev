@@ -43,7 +43,7 @@
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="150" />
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/esraaaa-dev](https://www.linkedin.com/in/esra-nur-ari/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/esra-nur-ari/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/esraaaa-dev)
 
 ---
