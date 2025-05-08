@@ -7,7 +7,7 @@
 
 <!-- 👾 Başlık -->
 <h1 align="center">👾 Merhaba! Ben Esra 🌸</h1>
-<p align="center">Son zamanlarda Swift geliştirekten hoşlanıyorum 🍎</p>
+<p align="center">Son zamanlarda Swift geliştirmekten hoşlanıyorum 🍎</p>
 
 <!-- 🌟 Mini avatar gif süsleme -->
 <div align="center">
