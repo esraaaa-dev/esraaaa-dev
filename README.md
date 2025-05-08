@@ -12,7 +12,7 @@
 <!-- 🌟 Mini avatar gif süsleme -->
 <div align="center">
   <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenltbDBjcmNpeGFmYzhmcnpneWpzdXliaGhyeDRqMWdvdGJmYjRwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenltbDBjcmNpeGFmYzhmcnpneWpzdXliaGhyeDRqMWdvdGJmYjRwaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif" width="80" height = "80">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBwc2F4aHkwc25pNDA2czRpN2IxaHBubXAwOGlrcmhqMmhwYnphMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="80">
 </div>
 
