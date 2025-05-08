@@ -22,7 +22,7 @@
 
 - 👩‍💻 Bilgisayar Mühendisliği öğrencisiyim  
 - 🍎 iOS geliştiricisi olma yolundayım  
-- 🎨 Pixel art ve yaratıcı projeler ilgimi çeker  
+- 🎨 Yaratıcı projeler ilgimi çeker  
 - 🔧 Backend geçmişim var, şimdi Swift dünyasındayım!
 
 ---
