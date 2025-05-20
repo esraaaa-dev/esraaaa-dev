@@ -36,9 +36,6 @@
 
 
 ---
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
----
 
 
 ## 🌈 Beni Takip Et
